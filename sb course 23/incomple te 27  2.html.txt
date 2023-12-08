@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Homework 02</title>
+    </head>
+    <body>
+    <center>
+    <h1>Sri Krishna Collage Of Technology</h1>
+    <div align="left">
+        <h3>Description</h3>
+       <p>Established in 1985, Sri Krishna College of Technology [SKCT] is a premier Institute located in Tamil Nadu. Institute offers Degree courses including 11 UG and 7 PG courses. These programs are offerred in Full Time mode. Sri Krishna College of Technology [SKCT] is a premier institute for B.E. / B.Tech, MCA, MBA/PGDM, M.E./M.Tech courses. Candidate can pursue in multiple range of courses like B.E. / B.Tech, MCA, MBA/PGDM, M.E./M.Tech with the stream of Engineering, IT & Software, Business & Management Studies. Over the period, Sri Krishna College of Technology [SKCT] has gained expertize through its trained and experienced faculty in the fields of Artificial Intelligence & Machine Learning, Civil Engineering, Computer Science Engineering, Electrical Engineering, Electronics & Communication Engineering, Information Technology, Instrumentation Technology, Mechanical Engineering, Electronics Engineering, Power Engineering, Structural Engineering. Courses offered by institute are recognized by approving bodies like AICTE. 
+    
+    </div>
+        <div>
+         <iframe width="560" height="315" src="https://www.youtube.com/embed/002yRJsFPX8?si=Sbp8Bz0qJLaVE_eq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <br>
+        <br>
+        <br>
+        <big><b><i><u> Departments </u></i></b></big><br>
+        <br>
+        
+        <ul type="disc">
+            <li>CIVIL ENGINEERING</li>
+            <li>COMPUTER SCIENCE AND ENGINEERING</li>
+            <li>ELECTRONICS AND COMMUNICATION ENGINEERING</li>
+            <li>ELECTRICAL AND ELECTRONICS ENGINEERING</li>
+            <li>MECHANICAL ENGINEERING</li>
+            <li>INFORMATION TECHNOLOGY</li>
+        </ul>
+        <br>
+        <br>
+        <table>
+            <tr align="center">
+                <th>S.No</th>
+                <th>Name</th>
+                <th>Mobile Number</th>
+                <th>Address</th>
+            </tr>
+            <tr align="center">
+                <td>1</td>
+                <td>Saravana S</td>
+                <td>6369856632</td>
+                <td>pudukkottai</td>
+            </tr>
+            <tr align="center">
+                <td>2</td>
+                <td>venu karthick </td>
+                <td>6383883623</td>
+                <td>madurai</td>
+            </tr>
+            <tr align="center">
+                <td>3</td>
+                <td>Sai ramaneshS</td>
+                <td>8056328475</td>
+                <td>salem</td>
+            </tr>
+            <tr align="center">
+                <td>4</td>
+                <td>richard</td>
+                <td>90432 17872</td>
+                <td>kanyakumari</td>
+            </tr>
+        </table>
+    </center>    
+    </body>
+</html>
